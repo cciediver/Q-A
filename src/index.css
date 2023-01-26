@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.color-body{
+  height: 100vh;
+  background-color: #fafafa;
+}
+
+.font{
+  font-family: "Almarai" , sans-serif;
+  font-size: 15px;
+}
+
+.btn-color {
+  border: none;
+  border-radius: 8px;
+  color: white;
+  background-color: #224f61;
+  padding: 8px;
+}
